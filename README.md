@@ -14,7 +14,7 @@ The workspace contains two folders by default, where:
 To run the application you need first compile, then run the following in `src` directory.
 
 - `javac ./App.java -d . ../lib/FileStatistics.java`: compile the code
-- `javac App`: run the application
+- `java App`: run the application
 
 ## To Do
 - Extract out the interface into a seperate class.
