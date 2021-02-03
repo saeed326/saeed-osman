@@ -16,6 +16,11 @@ To run the application you need first compile, then run the following in `src` d
 - `javac ./App.java -d . ../lib/FileStatistics.java`: compile the code
 - `javac App`: run the application
 
+## To Do
+- Extract out the interface into a seperate class.
+- Write some tests.
+- Add maven for build automation.
+
 ## Dependency Management
 
 The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
